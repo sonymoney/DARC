@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "BSL-1.1",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0"
+    "@openzeppelin/contracts": "^4.9.6"
   },
   "scripts": {
     "test": "hardhat test",
@@ -15,7 +15,7 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "@nomiclabs/hardhat-ethers": "^2.2.2",
-    "@openzeppelin/contracts-upgradeable": "^4.8.0",
+    "@openzeppelin/contracts-upgradeable": "^4.9.6",
     "@openzeppelin/hardhat-upgrades": "^1.22.1",
     "ethers": "^5.7.2",
     "hardhat": "^2.12.4",
