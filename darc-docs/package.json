@@ -18,9 +18,9 @@
     "postinstall": "npm run generate:darcjs-api"
   },
   "dependencies": {
-    "@docusaurus/core": "2.4.0",
-    "@docusaurus/plugin-pwa": "^2.4.0",
-    "@docusaurus/preset-classic": "2.4.0",
+    "@docusaurus/core": "3.2.0",
+    "@docusaurus/plugin-pwa": "^3.2.0",
+    "@docusaurus/preset-classic": "3.2.0",
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
     "@mdx-js/react": "^1.6.22",
